@@ -1,0 +1,3 @@
+I have created a local repository named How is Git.
+I am going to add, push and commit my work in my new remote repository.
+Let's see if it works.
